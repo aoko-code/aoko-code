@@ -1,3 +1,3 @@
 # Hello There 
-Am Cynthia Aoko and am interested in Full Stack Development , am currently learning Full Stack Web Development with Lakehub. Am looking foward to collaborate on new web projects.
+I am Cynthia Aoko and I am interested in Full Stack Development, Am looking forward to collaborating on new web projects.
 
